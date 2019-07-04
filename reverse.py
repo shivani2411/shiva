@@ -1,4 +1,3 @@
-def reverse(sr):
-  print(sr[::-1])
-i=input()
-reverse(i)
+str=str(input(""))
+rev=str[::-1]
+print(rev)
