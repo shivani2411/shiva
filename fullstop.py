@@ -1,3 +1,5 @@
-s=input()
-print(s+".")
+i=str(input(" "))
+x="."
+print(i+x)
+
 
