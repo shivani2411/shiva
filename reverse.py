@@ -1,2 +1,4 @@
-i=reversed(list(input()))
-print("".join(i))
+def reverse(sr):
+  print(sr[::-1])
+a=input()
+reverse(a)
