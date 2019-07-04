@@ -4,3 +4,5 @@ k = int(x[-1])
 print(pow(n,k))
 
 
+
+
