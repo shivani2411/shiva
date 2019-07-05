@@ -1,6 +1,7 @@
-holiday=input()
-if holiday == 'Sunday' or holiday == 'Saturday':
-  print("yes")
+a=str(input())
+if(a=="Sunday" or a=="Saturday"):
+    print("yes")
 else:
-  print("no")
+    print("no")
+    
   
